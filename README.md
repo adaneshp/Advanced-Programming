@@ -3,7 +3,7 @@
 This repository contains the codes developed for Advanced Programming Course. Still Updating...
 
 ## List of the projects
-- Computer Assignment 0:  
+- Computer Assignment 0: The Party's in Dolores's Driveway
 - Computer Assignment 1:
 - Computer Assignment 2:
 - Computer Assignment 3:
