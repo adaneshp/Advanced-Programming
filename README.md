@@ -3,14 +3,14 @@
 This repository contains the codes developed for Advanced Programming Course.
 
 ## List of the projects
-- Assignment 0:  
-- Assignment 1:
-- Assignment 2:
-- Assignment 3:
-- Assignment 4:
-- Assignment 5:
-- Assignment 6:
-- Assignment 7:
+- Computer Assignment 0:  
+- Computer Assignment 1:
+- Computer Assignment 2:
+- Computer Assignment 3:
+- Computer Assignment 4:
+- Computer Assignment 5:
+- Computer Assignment 6:
+- Computer Assignment 7:
 - HW 1:
 - HW 2:
 
